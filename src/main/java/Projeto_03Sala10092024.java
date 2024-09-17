@@ -28,14 +28,6 @@ public class Projeto_03Sala10092024 {
         } else { 
             calc_ano = ano_atual - ano_nasc;
             System.out.printf("A idade do indíviduo é: %.0f%n" , calc_ano);
-        }
-        
-        
-        
-        
-        
-        
-        
-        
+        }      
     }
 }
